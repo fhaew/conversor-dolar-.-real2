@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif
+}
+
+body {
+    background-color: rgb(133, 92, 245);
+}
+
+.gif {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin: 20px auto;
+
+}
+
+main {
+    width: 375px;
+    background-color: aliceblue;
+    border-radius: 20px;
+    margin: 0 auto;
+    padding: 44px 24px 23px;
+
+
+}
+
+labe {
+    color: #777777;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+select, input{
+    background: #ffffff;
+    border: 1px solid #bbbbbb;
+    border-radius: 4px;
+    height: 48px;
+    width: 100%;
+    margin-bottom: 24px;
+    padding-left: 18px;
+font-weight: 700;
+font-size: 16px;
+color: #555555;}
