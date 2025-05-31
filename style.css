@@ -6,8 +6,16 @@
 }
 
 body {
-    background-color: rgb(133, 92, 245);
+      font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url('./assets/Imposto-Priscila-Zambotto-GettyImages-768x512.webp');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
+
 
 .gif {
     width: 300px;
@@ -23,6 +31,7 @@ main {
     border-radius: 20px;
     margin: 0 auto;
     padding: 44px 24px 23px;
+    margin-top: 120px;
 
 
 }
